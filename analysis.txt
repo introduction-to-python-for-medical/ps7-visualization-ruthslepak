@@ -1,1 +1,13 @@
+The graph shows a scatter plot of sepal length versus petal length:
 
+There are two groups:
+
+lower group: Petal length is consistently low (1-2) with no clear relationship to sepal length.
+upper group: A positive linear correlation – as sepal length increases, petal length also increases.
+
+Correlation:
+
+The linear trend in the upper group suggests a dependency between the variables, while the lower group behaves differently.
+
+Conclusion:
+The graph likely represents two distinct clusters.
